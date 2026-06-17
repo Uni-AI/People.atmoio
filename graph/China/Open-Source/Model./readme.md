@@ -1,0 +1,1 @@
+- [Chinese OPEN SOURCE model better than FABLE](https://youtu.be/plcuiOXn_Pk)
